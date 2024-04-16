@@ -7,7 +7,7 @@
     font-family: 'poppins',sans-serif;
 }
 body {
-    background:#081b29;
+    background-color: #081b29;
     color: #ededed;
 }
 .header {
@@ -89,6 +89,9 @@ body {
     background-color: aqua;
 }
 .home {
+   
+    background-size: cover;
+    background-position: center;
     height: 100vh;
     display: flex;
     align-items: center;
